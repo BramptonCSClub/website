@@ -1,0 +1,376 @@
+.header-child,
+.header-item {
+  position: absolute;
+  height: 100px;
+}
+.header-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-color-ffffff);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  width: 1170px;
+}
+.header-item {
+  top: 364px;
+  left: 28px;
+  width: 100px;
+  overflow: hidden;
+}
+.categories1 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  line-height: 30px;
+  font-weight: 600;
+}
+.iconsarrow-down-s-fill,
+.iconsfunction-fill {
+  position: absolute;
+  top: 3px;
+  left: 217px;
+  width: 24px;
+  height: 24px;
+}
+.iconsfunction-fill {
+  left: 0;
+}
+.categories,
+.header {
+  position: absolute;
+  top: 35px;
+  left: 197px;
+  width: 241px;
+  height: 30px;
+}
+.header {
+  top: 149px;
+  left: 52px;
+  width: 1170px;
+  height: 464px;
+  font-size: var(--h5-20-size);
+  color: var(--primary-color-ffffff);
+}
+.image,
+.image-3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+}
+.image-3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+}
+.image {
+  top: 642px;
+  left: 828px;
+}
+.brampton-cs-club {
+  position: absolute;
+  top: 189px;
+  left: 79px;
+  font-size: var(--font-size-29xl);
+  line-height: 30px;
+}
+.about-us,
+.contact-us,
+.home {
+  position: absolute;
+  top: 180px;
+  left: 727px;
+  line-height: 40px;
+  display: inline-block;
+  width: 85px;
+  height: 38px;
+}
+.about-us,
+.contact-us {
+  left: 846px;
+  width: 110px;
+}
+.contact-us {
+  left: 991px;
+  width: 131px;
+}
+.hero-saction {
+  position: absolute;
+  top: -86px;
+  left: 331px;
+  width: 1588px;
+  height: 1016px;
+  font-size: var(--font-size-6xl);
+}
+.about-us1 {
+  position: absolute;
+  top: -778px;
+  left: 833px;
+  font-size: 55px;
+  display: inline-block;
+  background: linear-gradient(267.55deg, #0283e9, #fc01ca);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 254px;
+  height: 61px;
+}
+.featured-products-child,
+.featured-products-item {
+  position: absolute;
+  top: -669px;
+  left: 320px;
+  border-radius: var(--br-3xs);
+  width: 556px;
+  height: 470px;
+}
+.featured-products-item {
+  left: 1036px;
+}
+.innovation {
+  position: absolute;
+  top: -642px;
+  left: 1075px;
+  display: inline-block;
+  color: #fc01ca;
+  width: 478px;
+  height: 51px;
+}
+.innovation-is-paramount {
+  margin: 0;
+}
+.innovation-is-paramount-container {
+  top: -573px;
+  left: 1096px;
+  font-size: var(--font-size-5xl);
+  width: 475px;
+}
+.at-brampton-cs,
+.collaboration,
+.innovation-is-paramount-container {
+  position: absolute;
+  display: inline-block;
+}
+.at-brampton-cs {
+  top: -573px;
+  left: 389px;
+  font-size: var(--font-size-5xl);
+  width: 420px;
+  height: 317px;
+}
+.collaboration {
+  top: -638px;
+  left: 370px;
+  background: linear-gradient(259.81deg, #21d4fd, #0283e9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 456px;
+  height: 47px;
+}
+.featured-products-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--primary-color-f4f4f4);
+  width: 1919px;
+  height: 710px;
+}
+.involves-in-organizing-container,
+.oversees-the-facilitation-container {
+  position: absolute;
+  top: 339px;
+  left: 280px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 429px;
+  height: 177px;
+}
+.involves-in-organizing-container {
+  top: 333px;
+  left: 1200px;
+}
+.meet-the-executives,
+.meet-the-founders {
+  position: absolute;
+  font-size: var(--font-size-45xl);
+  text-align: left;
+}
+.meet-the-founders {
+  top: 57px;
+  left: 705px;
+  background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.meet-the-executives {
+  top: 790px;
+  left: 647px;
+  color: var(--dark-18191a);
+}
+.buttonview-all-product {
+  position: absolute;
+  top: 674px;
+  left: 647px;
+  width: 145px;
+  height: 43px;
+}
+.harnamsingh-soin,
+.sartaj-singh-gill {
+  position: absolute;
+  top: 195px;
+  left: 280px;
+  font-size: var(--font-size-31xl);
+  display: inline-block;
+  text-align: left;
+  width: 451px;
+  height: 57px;
+}
+.sartaj-singh-gill {
+  left: 1236px;
+}
+.co-founder,
+.co-founder1 {
+  position: absolute;
+  top: 280px;
+  left: 1325px;
+  font-size: var(--font-size-16xl);
+  background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+}
+.co-founder1 {
+  top: 289px;
+  left: 405px;
+}
+.contact-us1 {
+  position: absolute;
+  top: 17px;
+  left: 30px;
+  line-height: 40px;
+}
+.well-documentation {
+  position: absolute;
+  width: 72.04%;
+  top: 0;
+  right: 27.96%;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  height: 75px;
+}
+.group-div,
+.well-documentation-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 304px;
+  height: 121px;
+}
+.group-div {
+  top: 540px;
+  left: 862px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--primary-color-f4f4f4);
+}
+.featured-products {
+  position: absolute;
+  top: 997px;
+  left: 0;
+  width: 1919px;
+  height: 854px;
+  text-align: center;
+  font-size: 48.83px;
+}
+.social-media {
+  position: absolute;
+  top: 23px;
+  left: 83px;
+  line-height: 40px;
+}
+.well-documentation1 {
+  position: absolute;
+  width: 135.86%;
+  top: 121px;
+  right: -57.57%;
+  left: 21.71%;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(-30.18deg, #0283e9, #fc01ca);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  height: 86px;
+}
+.well-documentation-container {
+  position: absolute;
+  top: 1791px;
+  left: 35px;
+  width: 304px;
+  height: 121px;
+  color: var(--primary-color-f4f4f4);
+}
+.logistics {
+  position: absolute;
+  top: 23px;
+  left: 61px;
+  line-height: 40px;
+}
+.well-documentation2 {
+  position: absolute;
+  width: 15.06%;
+  top: 1912px;
+  right: 42.52%;
+  left: 42.42%;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(-27.73deg, #0283e9, #fc01ca);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  height: 86px;
+  color: var(--primary-color-f4f4f4);
+}
+.graphic-designer {
+  position: absolute;
+  top: 23px;
+  left: 82.7px;
+  line-height: 40px;
+}
+.well-documentation3 {
+  position: absolute;
+  width: 26.04%;
+  top: 1912px;
+  right: 4.03%;
+  left: 69.93%;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(-27.53deg, #0283e9, #fc01ca);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  height: 86px;
+  color: var(--primary-color-f4f4f4);
+}
+.panjvan-banda-shevan-container,
+.pehla-banda-dooja-container,
+.teeja-banda-chotha-container {
+  position: absolute;
+  top: 2059px;
+  left: 141px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  width: 330px;
+  height: 138px;
+}
+.panjvan-banda-shevan-container,
+.teeja-banda-chotha-container {
+  left: 795px;
+}
+.panjvan-banda-shevan-container {
+  left: 1399px;
+}
+.the-about-us {
+  position: relative;
+  background-color: var(--primary-color-ffffff);
+  width: 100%;
+  height: 2533px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--h5-20);
+}

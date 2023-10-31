@@ -1,0 +1,376 @@
+.hero-saction-child {
+    position: absolute;
+    top: 0;
+    left: 648px;
+    width: 964px;
+    height: 810px;
+  }
+  .header-child,
+  .header-item {
+    position: absolute;
+    height: 100px;
+  }
+  .header-child {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--primary-color-ffffff);
+    box-shadow: var(--effect-1);
+    width: 1170px;
+  }
+  .header-item {
+    top: 364px;
+    left: 80px;
+    width: 100px;
+    overflow: hidden;
+  }
+  .categories1 {
+    position: absolute;
+    top: 0;
+    left: 44px;
+    line-height: 30px;
+    font-weight: 600;
+  }
+  .iconsarrow-down-s-fill,
+  .iconsfunction-fill {
+    position: absolute;
+    top: 3px;
+    left: 217px;
+    width: 24px;
+    height: 24px;
+  }
+  .iconsfunction-fill {
+    left: 0;
+  }
+  .categories,
+  .header {
+    position: absolute;
+    top: 35px;
+    left: 249px;
+    width: 241px;
+    height: 30px;
+  }
+  .header {
+    top: 149px;
+    left: 0;
+    width: 1170px;
+    height: 464px;
+    font-size: var(--h5-20-size);
+    color: var(--primary-color-ffffff);
+  }
+  .welcome-to {
+    color: #2b2b2b;
+  }
+  .brampton {
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .welcome-to-brampton {
+    margin: 0;
+  }
+  .cs-club {
+    margin: 0;
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .the-official-website,
+  .welcome-to-brampton-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 73.25px;
+    display: inline-block;
+    width: 589px;
+  }
+  .the-official-website {
+    top: 165px;
+    font-size: var(--h5-20-size);
+    line-height: 30px;
+    font-weight: 600;
+    width: 536px;
+    height: 94px;
+  }
+  .text {
+    position: absolute;
+    top: 382px;
+    left: 0;
+    width: 589px;
+    height: 259px;
+    font-size: var(--font-size-31xl);
+    color: var(--primary-color-828089);
+  }
+  .image-2-icon,
+  .image-3-icon,
+  .image-6-icon,
+  .image-7-icon,
+  .image-8-icon {
+    position: absolute;
+    top: 16px;
+    left: -10px;
+    border-radius: var(--br-8xs);
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+  }
+  .image-2-icon,
+  .image-3-icon,
+  .image-6-icon,
+  .image-7-icon {
+    top: 234px;
+    left: 412px;
+    width: 170px;
+    height: 170px;
+  }
+  .image-2-icon,
+  .image-3-icon,
+  .image-7-icon {
+    top: -9px;
+    left: 273px;
+  }
+  .image-2-icon,
+  .image-3-icon {
+    top: 319px;
+    left: 220px;
+    width: 120px;
+    height: 120px;
+  }
+  .image-2-icon {
+    top: 191px;
+    left: 8px;
+    width: 170px;
+    height: 170px;
+  }
+  .image {
+    position: absolute;
+    top: 314px;
+    left: 598px;
+    width: 572px;
+    height: 428px;
+  }
+  .brampton-cs-club {
+    position: absolute;
+    top: 189px;
+    left: 79px;
+    font-size: var(--font-size-29xl);
+    line-height: 30px;
+  }
+  .sign-up {
+    position: absolute;
+    top: 24px;
+    left: 38px;
+    line-height: 40px;
+  }
+  .well-documentation {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    box-shadow: var(--effect-1);
+    height: 89px;
+  }
+  .hero-saction-inner,
+  .well-documentation-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 223px;
+    height: 89px;
+  }
+  .hero-saction-inner {
+    top: 721px;
+    left: 120px;
+    font-size: var(--font-size-21xl);
+    color: var(--primary-color-f4f4f4);
+  }
+  .about-us,
+  .contact-us,
+  .home {
+    position: absolute;
+    top: 180px;
+    left: 727px;
+    line-height: 40px;
+    display: inline-block;
+    width: 85px;
+    height: 38px;
+  }
+
+  .about-us,
+  .contact-us {
+    left: 846px;
+    width: 110px;
+  }
+  .contact-us {
+    left: 991px;
+    width: 131px;
+  }
+  .hero-saction {
+    position: absolute;
+    top: 0;
+    left: 307px;
+    width: 1453px;
+    height: 810px;
+  }
+  .featured-products-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--primary-color-f4f4f4);
+    width: 1919px;
+    height: 847px;
+  }
+  .our-mission {
+    position: absolute;
+    top: 78px;
+    left: 881px;
+    font-size:50px;
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .our-mission-is {
+    position: absolute;
+    top: calc(50% - 214.5px);
+    left: calc(50% - 508.5px);
+    font-size: var(--font-size-13xl);
+    line-height: 32px;
+    display: inline-block;
+    text-align: center;
+    width: 1085px;
+    height: 408px;
+  }
+  .buttonview-all-product {
+    position: absolute;
+    top: 674px;
+    left: 647px;
+    width: 145px;
+    height: 43px;
+  }
+  .featured-products {
+    position: absolute;
+    top: 1450px;
+    left: 0;
+    width: 1919px;
+    height: 847px;
+    font-size: var(--h2-3906-size);
+  }
+  .why-choose-us-child {
+    position: absolute;
+    top: 99px;
+    left: 454px;
+    border-radius: var(--br-3xs);
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    box-shadow: var(--effect-1);
+    width: 349px;
+    height: 298px;
+  }
+  .why-choose-us-inner,
+  .why-choose-us-item {
+    position: absolute;
+    top: 90px;
+    left: 2px;
+    border-radius: var(--br-3xs);
+    width: 369px;
+    height: 318px;
+  }
+  .why-choose-us-inner {
+    top: 92px;
+    left: 913px;
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    box-shadow: var(--effect-1);
+    width: 355px;
+    height: 298px;
+  }
+  .bi-weekly-meetings,
+  .members {
+    position: absolute;
+    line-height: 58.59px;
+    display: inline-block;
+    width: 349px;
+  }
+  .members {
+    top: 161px;
+    left: calc(50% - 622px);
+    height: 245px;
+  }
+  .bi-weekly-meetings {
+    top: 196px;
+    left: 448px;
+    height: 117px;
+  }
+  .with-prizes {
+    margin: 0;
+    font-size: var(--font-size-29xl);
+  }
+  .contest-with-prizes-container,
+  .joined-in-2023 {
+    position: absolute;
+    line-height: 58.59px;
+    display: inline-block;
+  }
+  .contest-with-prizes-container {
+    top: 189px;
+    left: 920px;
+    width: 341px;
+    height: 183px;
+    font-size: 90px;
+  }
+  .joined-in-2023 {
+    top: 271px;
+    left: 56px;
+    font-size: var(--font-size-13xl);
+    width: 266px;
+    height: 66px;
+  }
+  .why-choose-us {
+    position: absolute;
+    top: 911px;
+    left: 329px;
+    width: 1268px;
+    height: 397px;
+    text-align: center;
+    font-size: var(--font-size-45xl);
+    color: var(--primary-color-f4f4f4);
+  }
+  .learn-more {
+    position: absolute;
+    top: 8px;
+    left: 0;
+    line-height: 58.59px;
+    display: inline-block;
+    width: 194px;
+    height: 61px;
+  }
+  .well-documentation1 {
+    position: absolute;
+    top: 2145px;
+    left: 919px;
+    border-radius: var(--br-3xs);
+    background: linear-gradient(238.66deg, #0283e9, #fc01ca);
+    box-shadow: var(--effect-1);
+    width: 194px;
+    height: 69px;
+    text-align: center;
+    font-size: var(--font-size-11xl);
+    color: var(--primary-color-f4f4f4);
+  }
+  .index1 {
+    position: relative;
+    background-color: var(--primary-color-ffffff);
+    width: 100%;
+    height: 2470px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    color: var(--color-black);
+    font-family: var(--h2-3906);
+  }
+  html *
+{
+   font-family: Josefin Sans;
+}
